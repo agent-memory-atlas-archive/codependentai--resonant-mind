@@ -4,8 +4,8 @@ Resonant Mind is a Postgres-backed cognitive substrate shaped through long-runni
 
 ## Contact
 
-- Bug reports and proposals: [GitHub Issues](https://github.com/codependentai/resonant-mind/issues)
-- Questions: [GitHub Discussions](https://github.com/codependentai/resonant-mind/discussions)
+- Bug reports and proposals: [GitHub Issues](https://github.com/nekyialabs/resonant-mind/issues)
+- Questions: [GitHub Discussions](https://github.com/nekyialabs/resonant-mind/discussions)
 
 ## Before opening a PR
 
@@ -34,7 +34,7 @@ D1, bundled dashboards, generic multi-tenancy, and non-Cloudflare deployment tar
 ## Development
 
 ```bash
-git clone https://github.com/codependentai/resonant-mind.git
+git clone https://github.com/nekyialabs/resonant-mind.git
 cd resonant-mind
 npm ci
 npm run typecheck
